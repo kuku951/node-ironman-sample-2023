@@ -21,9 +21,9 @@ const options = {
     //    "Credit",
     //    "WebATM",
     //    "ATM",
-        "CVS",
-        "BARCODE",
-        "AndroidPay"
+        CVS,
+        BARCODE,
+        AndroidPay
   ],
   IsProjectContractor: false,
 };
